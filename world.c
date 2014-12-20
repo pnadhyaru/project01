@@ -1,0 +1,4 @@
+class a
+{
+printf("hi");
+}
